@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T06:38:17.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="4dHcdN0NzFq4o2Z_41ev" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-25T06:39:11.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qbw9GracKZEYX7Hs0H5J" version="13.7.3" type="github" pages="2">
   <diagram id="UY4jzkUobXih1hy0Ml7n" name="第 1 页">
     <mxGraphModel dx="946" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="dIOQk_Y6nI95vLgPervG-8" value="通信模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="450" y="260" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIOQk_Y6nI95vLgPervG-9" value="离线人脸跟踪 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="dIOQk_Y6nI95vLgPervG-9" value="离线人脸检测 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210" y="340" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIOQk_Y6nI95vLgPervG-10" value="离线手势识别 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F2dylFmoJumDBhZqIRGY" name="第 2 页">
-    <mxGraphModel dx="946" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="P1c90PmFVrImWQqfoxal-0" />
         <mxCell id="P1c90PmFVrImWQqfoxal-1" parent="P1c90PmFVrImWQqfoxal-0" />
