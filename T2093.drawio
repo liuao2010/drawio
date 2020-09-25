@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T06:39:11.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qbw9GracKZEYX7Hs0H5J" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-25T08:42:46.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="cVDpXazuR3RsPKEqScm_" version="13.7.3" type="github" pages="2">
   <diagram id="UY4jzkUobXih1hy0Ml7n" name="第 1 页">
     <mxGraphModel dx="946" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,13 +68,13 @@
             <mxPoint x="280" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KuN2vDdt5BFz5saV1ko0-5" value="开始录屏" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="P1c90PmFVrImWQqfoxal-1">
+        <mxCell id="KuN2vDdt5BFz5saV1ko0-5" value="录制屏幕" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="P1c90PmFVrImWQqfoxal-1">
           <mxGeometry x="140" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KuN2vDdt5BFz5saV1ko0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P1c90PmFVrImWQqfoxal-1" source="KuN2vDdt5BFz5saV1ko0-6" target="KuN2vDdt5BFz5saV1ko0-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KuN2vDdt5BFz5saV1ko0-6" value="打开相机" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="P1c90PmFVrImWQqfoxal-1">
+        <mxCell id="KuN2vDdt5BFz5saV1ko0-6" value="拍摄视频" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="P1c90PmFVrImWQqfoxal-1">
           <mxGeometry x="320" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KuN2vDdt5BFz5saV1ko0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P1c90PmFVrImWQqfoxal-1" source="KuN2vDdt5BFz5saV1ko0-7" target="KuN2vDdt5BFz5saV1ko0-8">
