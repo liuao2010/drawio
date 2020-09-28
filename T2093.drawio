@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T02:16:14.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="z5N0ck31WDnp2n1AOTYU" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T10:26:31.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="e5Ai8tZNEK2ByKF2bt06" version="13.7.3" type="github" pages="2">
   <diagram id="UY4jzkUobXih1hy0Ml7n" name="第 1 页">
-    <mxGraphModel dx="946" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dIOQk_Y6nI95vLgPervG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dIOQk_Y6nI95vLgPervG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="140" width="380" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="dIOQk_Y6nI95vLgPervG-5" value="录屏模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="dIOQk_Y6nI95vLgPervG-5" value="录屏模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="210" y="260" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIOQk_Y6nI95vLgPervG-6" value="相机模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="dIOQk_Y6nI95vLgPervG-6" value="相机模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="335" y="260" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIOQk_Y6nI95vLgPervG-8" value="通信模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="dIOQk_Y6nI95vLgPervG-8" value="蓝牙通信模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="450" y="260" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIOQk_Y6nI95vLgPervG-9" value="离线人脸检测 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="dIOQk_Y6nI95vLgPervG-9" value="离线人脸检测 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="340" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIOQk_Y6nI95vLgPervG-10" value="离线手势识别 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="dIOQk_Y6nI95vLgPervG-10" value="离线手势识别 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="333" y="340" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIOQk_Y6nI95vLgPervG-14" value="APP UI 模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="dIOQk_Y6nI95vLgPervG-14" value="APP UI 模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eVS9-y8YAwZm2mvut96h-2" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="eVS9-y8YAwZm2mvut96h-2" value="美颜 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="450" y="340" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
