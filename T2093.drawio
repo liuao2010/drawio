@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T05:39:47.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Ss0XCjHZAp64KsVjCMJX" version="13.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-24T05:54:41.795Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gQThd6ahxfsWbKf_AQpK" version="13.7.9" type="github" pages="2">
   <diagram id="UY4jzkUobXih1hy0Ml7n" name="第 1 页">
-    <mxGraphModel dx="1426" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,25 +11,22 @@
           <mxGeometry x="210" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIOQk_Y6nI95vLgPervG-8" value="蓝牙通信模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="335" y="260" width="90" height="60" as="geometry" />
+          <mxGeometry x="340" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIOQk_Y6nI95vLgPervG-9" value="离线人脸检测 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="210" y="340" width="90" height="60" as="geometry" />
+          <mxGeometry x="210" y="340" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIOQk_Y6nI95vLgPervG-14" value="APP UI 模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TiQRA2VkPZgFh4A7sPhb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIOQk_Y6nI95vLgPervG-4" target="dIOQk_Y6nI95vLgPervG-4">
+        <mxCell id="TiQRA2VkPZgFh4A7sPhb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dIOQk_Y6nI95vLgPervG-4" target="dIOQk_Y6nI95vLgPervG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bRJ1RpZkSk3ldRjlKH8k-1" value="离线手势识别 SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="335" y="340" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="F2dylFmoJumDBhZqIRGY" name="第 2 页">
-    <mxGraphModel dx="1426" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="P1c90PmFVrImWQqfoxal-0" />
         <mxCell id="P1c90PmFVrImWQqfoxal-1" parent="P1c90PmFVrImWQqfoxal-0" />
@@ -47,19 +44,19 @@
         <mxCell id="KuN2vDdt5BFz5saV1ko0-1" value="进入ui界面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="P1c90PmFVrImWQqfoxal-1" vertex="1">
           <mxGeometry x="230" y="120" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l_JzldEqdCnm2XiMGJ1q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P1c90PmFVrImWQqfoxal-1" source="KuN2vDdt5BFz5saV1ko0-5" target="KuN2vDdt5BFz5saV1ko0-7">
+        <mxCell id="l_JzldEqdCnm2XiMGJ1q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="P1c90PmFVrImWQqfoxal-1" source="KuN2vDdt5BFz5saV1ko0-5" target="KuN2vDdt5BFz5saV1ko0-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KuN2vDdt5BFz5saV1ko0-5" value="录制屏幕" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="P1c90PmFVrImWQqfoxal-1" vertex="1">
           <mxGeometry x="230" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l_JzldEqdCnm2XiMGJ1q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P1c90PmFVrImWQqfoxal-1" source="KuN2vDdt5BFz5saV1ko0-7" target="KuN2vDdt5BFz5saV1ko0-8">
+        <mxCell id="l_JzldEqdCnm2XiMGJ1q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="P1c90PmFVrImWQqfoxal-1" source="KuN2vDdt5BFz5saV1ko0-7" target="KuN2vDdt5BFz5saV1ko0-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KuN2vDdt5BFz5saV1ko0-7" value="输出视频流" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="P1c90PmFVrImWQqfoxal-1" vertex="1">
           <mxGeometry x="230" y="280" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l_JzldEqdCnm2XiMGJ1q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P1c90PmFVrImWQqfoxal-1" source="KuN2vDdt5BFz5saV1ko0-8" target="KuN2vDdt5BFz5saV1ko0-9">
+        <mxCell id="l_JzldEqdCnm2XiMGJ1q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="P1c90PmFVrImWQqfoxal-1" source="KuN2vDdt5BFz5saV1ko0-8" target="KuN2vDdt5BFz5saV1ko0-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KuN2vDdt5BFz5saV1ko0-8" value="采样视频流" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="P1c90PmFVrImWQqfoxal-1" vertex="1">
