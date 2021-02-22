@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T05:55:47.679Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.1.2" etag="Epp38rTXe7mdqP_uCAgx" type="github"><diagram id="LNSFZsQkTbC-v4ShjM4J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-22T10:07:23.302Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="yqdpIijwomFAYvkZYwlB" version="14.1.2" type="github" pages="3">
+  <diagram id="LNSFZsQkTbC-v4ShjM4J" name="验证码请求器">
+    <mxGraphModel dx="946" dy="448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Z_jBCNRCNPL9V90JuA9n-15" target="Z_jBCNRCNPL9V90JuA9n-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-26" value="Call" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z_jBCNRCNPL9V90JuA9n-25">
+          <mxGeometry x="0.06" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-15" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;i&gt;组件&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;基础设施&lt;/p&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Z_jBCNRCNPL9V90JuA9n-17" target="Z_jBCNRCNPL9V90JuA9n-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-28" value="Http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z_jBCNRCNPL9V90JuA9n-27">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-17" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;i&gt;云服务&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Z_jBCNRCNPL9V90JuA9n-18" target="Z_jBCNRCNPL9V90JuA9n-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-22" value="Depend on" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z_jBCNRCNPL9V90JuA9n-21">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-18" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;i&gt;组件&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;Others&lt;/p&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_jBCNRCNPL9V90JuA9n-23" value="&lt;p style=&quot;margin: 4px 0px 0px&quot;&gt;&lt;i&gt;功能&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;发送验证码&lt;/p&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RDfhFJtad0fVfJakYcsi" name="时间同步器">
+    <mxGraphModel dx="946" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KzVyn11im4mXJQnMFHUn-0" />
+        <mxCell id="KzVyn11im4mXJQnMFHUn-1" parent="KzVyn11im4mXJQnMFHUn-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Jwf6qIcBIAppX36tydMo" name="签名器">
+    <mxGraphModel dx="946" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="bwHLjFOUYEVCSQyjVYk0-0" />
+        <mxCell id="bwHLjFOUYEVCSQyjVYk0-1" parent="bwHLjFOUYEVCSQyjVYk0-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
